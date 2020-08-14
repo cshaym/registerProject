@@ -1,5 +1,5 @@
 body {
-    background-color: #6495ED;
+    background-color:#a760e9;
     text-align: center;
 }
 
@@ -24,6 +24,11 @@ input {
     
 }
 
+h1 {
+    text-align: left;
+    margin-left: 10px;
+}
+
 .logos {
     height: 30px;
     width: 40px;
@@ -40,6 +45,6 @@ button {
     width: 215px;
     padding: 5px;
     margin-top: 10px;
-    background-color: #085eff;
+    background-color: #a80fd9;
     color: white;
 }
