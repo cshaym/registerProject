@@ -1,15 +1,15 @@
-body{
+body {
     background-color: #6495ED;
     text-align: center;
 }
 
-input{
+input {
     margin: 10px;
     padding: 5px;
     width: 200px;
 }
 
-.divedit{
+.divedit {
     background-color: white;
     text-align: center;
     height:400px;
@@ -24,13 +24,19 @@ input{
     
 }
 
-.logos{
+.logos {
     height: 30px;
     width: 40px;
     padding: 2px;
 }
 
-button{
+nav {
+    /*width: 40px;            these measurements arent working with the (display: inline-block)
+    height: 30px;*/
+    display: inline-block;
+}
+
+button {
     width: 215px;
     padding: 5px;
     margin-top: 10px;
