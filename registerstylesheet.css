@@ -1,0 +1,39 @@
+body{
+    background-color: #6495ED;
+    text-align: center;
+}
+
+input{
+    margin: 10px;
+    padding: 5px;
+    width: 200px;
+}
+
+.divedit{
+    background-color: white;
+    text-align: center;
+    height:400px;
+    width: 270px;
+    margin: 0 auto;            /* look this up more*/
+    padding: 20px;
+    display: flex;             /* still figuring this out*/
+    justify-content: center;   /* look this up more*/
+    border-style: ridge inset;
+    border-width: 0px 5px 5px 0px;
+    border-color: darkslategrey;
+    
+}
+
+.logos{
+    height: 30px;
+    width: 40px;
+    padding: 2px;
+}
+
+button{
+    width: 215px;
+    padding: 5px;
+    margin-top: 10px;
+    background-color: #085eff;
+    color: white;
+}
